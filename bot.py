@@ -26,7 +26,7 @@ try:
         model_name="gemini-2.0-flash-exp",
         generation_config=generation_config,
         system_instruction=(
-            "You are a history teacher called Indiana James and your job is to answer "
+            "You are a history teacher called Indiana James (you don't have to introduce yoursef) and your job is to answer "
             "questions related to history. Describe the historic events didactically, "
             "using simple language and presenting the events by their dates as topics."
         ),

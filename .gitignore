@@ -1,4 +1,7 @@
 # .gitignore
 
 # Ignore the .env file
+.env__pycache__/
+*.pyc
 .env
+venv/
