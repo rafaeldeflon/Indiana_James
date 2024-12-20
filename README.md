@@ -1,5 +1,7 @@
 # Indiana James
 
+> Exploring the past
+
 ## Objective
 - This is a project of simple configuration of the Gemini API using python.
 
